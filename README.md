@@ -1,0 +1,6 @@
+![Turkcell-1](https://github.com/EcodationAkademiFrontEnd/Metehan_Ayhan_Turkcell_Proje/assets/161254242/c8b40e84-f281-4810-adcd-6e8871f34030)
+![Turkcell-2](https://github.com/EcodationAkademiFrontEnd/Metehan_Ayhan_Turkcell_Proje/assets/161254242/8ee09735-4f44-4a5c-be67-0b4c8731e049)
+![Turkcell-3](https://github.com/EcodationAkademiFrontEnd/Metehan_Ayhan_Turkcell_Proje/assets/161254242/4bea1abb-0020-4195-9daa-61d7e9ea176b)
+![Turkcell-4](https://github.com/EcodationAkademiFrontEnd/Metehan_Ayhan_Turkcell_Proje/assets/161254242/658c075b-6a45-4202-ad46-558a2a212105)
+![Turkcell-5](https://github.com/EcodationAkademiFrontEnd/Metehan_Ayhan_Turkcell_Proje/assets/161254242/5aee84a1-b7bc-42c3-bd1c-724534d71585)
+![Footer](https://github.com/EcodationAkademiFrontEnd/Metehan_Ayhan_Turkcell_Proje/assets/161254242/e9e18079-4c27-4170-b64b-36d8cd79ac7b)
