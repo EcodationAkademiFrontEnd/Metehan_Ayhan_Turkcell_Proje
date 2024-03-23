@@ -1,0 +1,176 @@
+.bir {
+  background-color: #07377e;
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.afet {
+  width: 1150px;
+  height: 475px;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.top-links a {
+  margin: 10px;
+  margin-left: 100px;
+  margin: top 30px;
+  text-decoration: none;
+  color: white;
+}
+
+.logo {
+  margin-left: 200px;
+  margin-bottom: 20px;
+  width: 57px;
+  height: 57px;
+}
+
+
+
+.aft-tdbr {
+  color: #ffcd00;
+  font-size: 28px;
+  text-align: center;
+  font-weight: bolder;
+  margin-top: 120px;
+}
+
+.yazi2 {
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 60px;
+}
+
+.resim {
+  width: 260px;
+  height: 280px;
+}
+
+.sayfa2 {
+  background-color: #f0f1f2;
+}
+.baslik2 {
+  color: #07377e;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+
+  background-color: #f0f1f2;
+}
+
+.sayfa2-yazi {
+  color: #07377e;
+  font-size: smaller;
+  text-align: center;
+  font-weight: bold;
+}
+.text {
+  color: #07377e;
+  font-size: medium;
+  font-weight: bold;
+}
+p {
+  color: white;
+  font-size: small;
+}
+
+h1 {
+  color: white;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.text0 {
+  color: white;
+  font-weight: bolder;
+  font-size: medium;
+}
+
+.s2-prgrf {
+  color: #07377e;
+  font-size: small;
+}
+
+.s3-prgrf {
+  margin-top: 20px;
+  color: #07377e;
+  font-size: medium;
+}
+.sayfa3-text {
+  color: #07377e;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.afad-buton {
+  border: #ffcd00;
+  border-width: 150px;
+  background-color: #ffcd00;
+  color: #07377e;
+  font-size: medium;
+  font-weight: bold;
+  border-radius: 50px;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 100px;
+  margin-left: 600px;
+  margin-right: 600px;
+
+  text-align: center;
+}
+
+.resim2 {
+  border-radius: 5%;
+}
+
+.sayfa4 {
+  background-color: #ffcd00;
+  width: 100%;
+  height: 100%;
+}
+
+.s4-prgrf {
+  color: #07377e;
+  font-size: small;
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.sayfa4.text {
+  color: #07377e;
+  font-weight: bold;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  margin-top: 30px;
+}
+
+.footer {
+  background-color: #272e75;
+}
+
+img {
+  margin-bottom: 20px;
+}
+
+/* .tum {
+  margin: auto;
+} */
+
+
+
+footer {
+  background-color: #263076;
+  height: 70px;
+}
+
+.twitter {
+ background-image: url(images/icn-tw.png);
+} 
